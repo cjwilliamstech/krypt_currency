@@ -1,2 +1,2 @@
-# krypt_currency
+# krypt Currency.com
 Send Crypto currency to anyone. (test net only)
